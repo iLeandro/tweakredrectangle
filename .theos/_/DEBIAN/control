@@ -1,0 +1,10 @@
+Package: me.leandroalmeida.redrectangle
+Name: Red Rectangle
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Leandro Almeida
+Author: Leandro Almeida
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 120
